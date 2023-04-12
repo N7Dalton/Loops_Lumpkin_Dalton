@@ -1,0 +1,14 @@
+C:\Users\dalton.lumpkin\source\repos\Loops_Lumpkin_Dalton\Loops_Lumpkin_Dalton\bin\Debug\netcoreapp3.1\Loops_Lumpkin_Dalton.exe
+C:\Users\dalton.lumpkin\source\repos\Loops_Lumpkin_Dalton\Loops_Lumpkin_Dalton\bin\Debug\netcoreapp3.1\Loops_Lumpkin_Dalton.deps.json
+C:\Users\dalton.lumpkin\source\repos\Loops_Lumpkin_Dalton\Loops_Lumpkin_Dalton\bin\Debug\netcoreapp3.1\Loops_Lumpkin_Dalton.runtimeconfig.json
+C:\Users\dalton.lumpkin\source\repos\Loops_Lumpkin_Dalton\Loops_Lumpkin_Dalton\bin\Debug\netcoreapp3.1\Loops_Lumpkin_Dalton.runtimeconfig.dev.json
+C:\Users\dalton.lumpkin\source\repos\Loops_Lumpkin_Dalton\Loops_Lumpkin_Dalton\bin\Debug\netcoreapp3.1\Loops_Lumpkin_Dalton.dll
+C:\Users\dalton.lumpkin\source\repos\Loops_Lumpkin_Dalton\Loops_Lumpkin_Dalton\bin\Debug\netcoreapp3.1\Loops_Lumpkin_Dalton.pdb
+C:\Users\dalton.lumpkin\source\repos\Loops_Lumpkin_Dalton\Loops_Lumpkin_Dalton\obj\Debug\netcoreapp3.1\Loops_Lumpkin_Dalton.csproj.AssemblyReference.cache
+C:\Users\dalton.lumpkin\source\repos\Loops_Lumpkin_Dalton\Loops_Lumpkin_Dalton\obj\Debug\netcoreapp3.1\Loops_Lumpkin_Dalton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dalton.lumpkin\source\repos\Loops_Lumpkin_Dalton\Loops_Lumpkin_Dalton\obj\Debug\netcoreapp3.1\Loops_Lumpkin_Dalton.AssemblyInfoInputs.cache
+C:\Users\dalton.lumpkin\source\repos\Loops_Lumpkin_Dalton\Loops_Lumpkin_Dalton\obj\Debug\netcoreapp3.1\Loops_Lumpkin_Dalton.AssemblyInfo.cs
+C:\Users\dalton.lumpkin\source\repos\Loops_Lumpkin_Dalton\Loops_Lumpkin_Dalton\obj\Debug\netcoreapp3.1\Loops_Lumpkin_Dalton.csproj.CoreCompileInputs.cache
+C:\Users\dalton.lumpkin\source\repos\Loops_Lumpkin_Dalton\Loops_Lumpkin_Dalton\obj\Debug\netcoreapp3.1\Loops_Lumpkin_Dalton.dll
+C:\Users\dalton.lumpkin\source\repos\Loops_Lumpkin_Dalton\Loops_Lumpkin_Dalton\obj\Debug\netcoreapp3.1\Loops_Lumpkin_Dalton.pdb
+C:\Users\dalton.lumpkin\source\repos\Loops_Lumpkin_Dalton\Loops_Lumpkin_Dalton\obj\Debug\netcoreapp3.1\Loops_Lumpkin_Dalton.genruntimeconfig.cache
